@@ -6,6 +6,7 @@ public class jai {
 		System.out.println("welcome");
 		System.out.println("hai");
 		System.out.println("123");
+		System.out.println("456");
 
 	}
 
